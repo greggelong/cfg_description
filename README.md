@@ -2,7 +2,7 @@
 
 
 
- Using Context free grammer to 
+ Using Context free grammar to 
 
 complete natural language tasks that are required of Grade 8
 
