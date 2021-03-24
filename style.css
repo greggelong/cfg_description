@@ -1,0 +1,14 @@
+
+html, body {
+  background-color: black;
+  margin: 10;
+  padding: 1;
+  color: orange;
+  font-size: xx-large;
+}
+
+
+}
+canvas {
+  display: block;
+}
