@@ -295,6 +295,9 @@ function setup() {
   myp = createP("Click generate for a randomly expanded sentence").style("color","lime");
   button = createButton('generate');
   button.mousePressed(cfg);
+  createP();
+  createP(); // put some space between button and link
+  createA('https://github.com/greggelong/cfg_description', 'link to this  repo');
 }
 
 function cfg() {
